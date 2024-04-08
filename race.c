@@ -1,5 +1,4 @@
 // FILE:  race.c
-// WRITTEN BY: Huy Ho(hqho@wpi.edu), Jan 19, 2024
 // IMPLEMENTS: ANIMALS.H
 #include "animals.h"  
 
